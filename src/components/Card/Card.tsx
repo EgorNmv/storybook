@@ -1,5 +1,8 @@
 import React from "react";
+import "./Card.sass";
 import "./Card.css";
+import "./Card.less";
+import "./Card.scss";
 
 type CardProp = {
   content: string;
